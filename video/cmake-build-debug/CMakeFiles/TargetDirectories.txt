@@ -1,0 +1,3 @@
+/Users/menglei/workspace/opencv_example/video/cmake-build-debug/CMakeFiles/video.dir
+/Users/menglei/workspace/opencv_example/video/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/menglei/workspace/opencv_example/video/cmake-build-debug/CMakeFiles/rebuild_cache.dir
