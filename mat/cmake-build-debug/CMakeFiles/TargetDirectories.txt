@@ -1,0 +1,3 @@
+/Users/menglei/workspace/opencvexample/mat/cmake-build-debug/CMakeFiles/mat.dir
+/Users/menglei/workspace/opencvexample/mat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/menglei/workspace/opencvexample/mat/cmake-build-debug/CMakeFiles/rebuild_cache.dir

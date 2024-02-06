@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.27)
+project(mat)
+find_package(OpenCV)
+set(CMAKE_CXX_STANDARD 17)
+include_directories(${OpenCV_INCLUDE_DIRS})
+add_executable(mat main.cpp)
+target_link_libraries(mat ${OpenCV_LIBS})

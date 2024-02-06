@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "video",
+					"name" : "mat",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "video::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-video-Debug-35a1b6083cdf6ca2df64.json",
-					"name" : "video",
+					"id" : "mat::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mat-Debug-9cf37ed840e0075e03d2.json",
+					"name" : "mat",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/menglei/workspace/opencv_example/video/cmake-build-debug",
-		"source" : "/Users/menglei/workspace/opencv_example/video"
+		"build" : "/Users/menglei/workspace/opencvexample/mat/cmake-build-debug",
+		"source" : "/Users/menglei/workspace/opencvexample/mat"
 	},
 	"version" : 
 	{

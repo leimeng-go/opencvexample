@@ -176,8 +176,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/Users/menglei/workspace/opencv_example/video/cmake-build-debug",
-		"source" : "/Users/menglei/workspace/opencv_example/video"
+		"build" : "/Users/menglei/workspace/opencvexample/rio/cmake-build-debug",
+		"source" : "/Users/menglei/workspace/opencvexample/rio"
 	},
 	"version" : 
 	{
